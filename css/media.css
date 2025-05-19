@@ -20,6 +20,16 @@
    .bannerContent br{
     display: none;
    }
+   .bannerContent p, .bannerContent ul li{
+    font-size: 16px;
+    
+   }
+   .bannerButton{
+    flex-direction: column;
+   }
+   .bannerButton button{
+    width: 100%;
+   }
 }
 /* to adjust responsive layout */
 @media (min-width: 1400px) {

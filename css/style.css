@@ -30,3 +30,30 @@
 .bannerContent h1 span{
     color: rgb(186, 167, 104);
 }
+.bannerContent ul{
+    list-style: none;
+} .bannerContent ul li{
+    font-size: 22px;
+}
+.bannerButton button{
+    width: 50%;
+    padding: 10px 0px;
+    border-radius: 5px;
+
+}
+.bannerButton button:first-child{
+    background: linear-gradient(to right, rgb(195, 88, 88), pink);
+    color: rgb(54, 55, 67);
+}
+.bannerButton button:nth-child(2){
+    background: linear-gradient(to right, rgb(127, 163, 131), rgb(192, 193, 121));
+    color: rgb(54, 55, 67);
+}
+.bannerForm{
+    padding: 40px;
+
+}
+.bannerForm h3{
+    font-size: 18px;
+    font-weight: 700;
+}
