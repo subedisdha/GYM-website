@@ -1,0 +1,29 @@
+/* media query for mobile sizes */
+@media only screen and (min-width:200px) and (max-width:575px){
+   .btn-outer{
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    left: 0px;
+    justify-content: center !important;
+   }
+   .contactbtn, .call{
+    padding: 7px 15px;
+    font-size: 14px;
+   }
+   .bannerContent h1{
+    font-size: 26px;
+    font-weight: 700;
+    text-align: center;
+    line-height: 35px;
+   }
+   .bannerContent br{
+    display: none;
+   }
+}
+/* to adjust responsive layout */
+@media (min-width: 1400px) {
+    .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+        max-width: 1170px;
+    }
+}

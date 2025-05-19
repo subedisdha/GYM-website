@@ -1,0 +1,32 @@
+*{
+     font-family: "Inter", sans-serif;
+}
+.contactbtn{
+    border: 2px solid grey;
+    padding: 10px 18px;
+    color:rgb(21, 142, 33);
+}
+.contactbtn i{
+    color: rgb(21, 142, 33);
+}
+.contactbtn:hover{
+    border: 1px solid rgb(191, 67, 67);
+    background-color: rgb(218, 197, 166);
+    color: brown;
+    
+}
+.call{
+    background:linear-gradient(to right, rgb(125, 172, 122), pink);
+    color: rgb(66, 60, 60);
+    padding: 10px 18px;
+}
+.bannerContent h1{
+    font-size: 52px;
+    font-weight: 700;
+}
+.bannerContent p{
+    font-size: 22px;
+}
+.bannerContent h1 span{
+    color: rgb(186, 167, 104);
+}
