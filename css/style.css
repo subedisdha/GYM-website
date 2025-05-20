@@ -51,9 +51,19 @@
 }
 .bannerForm{
     padding: 40px;
-
+    border-radius: 10px;
 }
 .bannerForm h3{
     font-size: 18px;
     font-weight: 700;
+}
+.bannerForm button{
+    width: 100%;
+    padding: 10px 0px;
+    background: linear-gradient(to right, rgb(195, 88, 88), pink);
+    border: none;
+    color: white;
+}
+.bannerForm{
+    padding: 20px;
 }

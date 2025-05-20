@@ -4,6 +4,7 @@
     position: fixed;
     bottom: 0px;
     width: 100%;
+    background-color: white;
     left: 0px;
     justify-content: center !important;
    }
