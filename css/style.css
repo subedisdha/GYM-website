@@ -73,7 +73,9 @@
     color: rgb(111, 125, 55);
 }
 .highlight-section{
-    background-color: rgb(117, 148, 137);
+    /* background-color: rgb(117, 148, 137); */
+    /* background-color: rgb(188, 161, 185); */
+      background-color: rgb(211, 202, 210);
 }
 .highlight-section h2{
     color: azure;
@@ -82,4 +84,15 @@
 }
 .highlight-section p{
     font-size: 18px;
+}
+.highlightItems h4{
+    font-size: 20px;
+    font-weight: 600;
+}
+.highlightItems p{
+    font-size: 15px;
+}
+.behindColor{
+    /* background-color: rgb(227, 219, 222); */
+    background-color: rgb(240, 238, 238);
 }
