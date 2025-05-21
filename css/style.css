@@ -64,6 +64,11 @@
     border: none;
     color: white;
 }
-.bannerForm{
+/* .bannerForm{
     padding: 20px;
+} */
+.fiveColSection h2{
+    font-size: 30px;
+    font-size: 700;
+    color: rgb(111, 125, 55);
 }
