@@ -31,6 +31,9 @@
    .bannerButton button{
     width: 100%;
    }
+   .highlight-section h2{
+    font-size: 28px;
+   }
 }
 /* to adjust responsive layout */
 @media (min-width: 1400px) {

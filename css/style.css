@@ -72,3 +72,14 @@
     font-size: 700;
     color: rgb(111, 125, 55);
 }
+.highlight-section{
+    background-color: rgb(117, 148, 137);
+}
+.highlight-section h2{
+    color: azure;
+    font-size: 34px;
+    font-weight: 700;
+}
+.highlight-section p{
+    font-size: 18px;
+}
